@@ -1,0 +1,13 @@
+.textStyle {
+    font-size: larger;
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+    margin: 2 rem;
+}
+.listStyle {
+    list-style: none;
+}
+.textStyle:hover{
+    color: rgb(138, 138, 138);
+}

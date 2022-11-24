@@ -1,0 +1,19 @@
+
+.navigation {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(33, 144, 228);
+    padding: 2vh;
+    margin: 0;
+    
+}
+.link {
+    margin: 0 2rem;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.link:hover {
+    color: rgb(206, 206, 206);
+    
+}

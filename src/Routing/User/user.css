@@ -1,0 +1,14 @@
+.user{
+    font-size: 7rem;
+    display: flex;
+    justify-content: center;
+    color: grey;
+}
+.text {
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+}
